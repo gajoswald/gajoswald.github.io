@@ -11,6 +11,7 @@ permalink: /tutorials/github-pages-website
 ## Requirement Details
 ### Setting Up Your Github Account
 ### Choosing and Installing a Programmer's Text Editor
+
 # Things to Do
 1. Verify that you've completed the requirements
 3. Create a github.io repository
