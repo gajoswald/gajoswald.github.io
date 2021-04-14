@@ -4,7 +4,7 @@ title:  "Getting Started!"
 date:   2021-01-14 09:54 -0500
 categories: jekyll github update
 ---
-I am going to create a tutorial for how I made this very soon, but the gist is that you: 
+I am in the middle of creating a tutorial for how I made this [github.io website](tutorials/githubio-website) going to create a tutorial for how I made this very soon, but the gist is that you: 
 1. create a github account (there may be details for how to do this within the school)
 2. Install github desktop
 3. Create a github.io repository
