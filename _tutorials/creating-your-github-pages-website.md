@@ -1,7 +1,7 @@
 ---
-title: "Creating Your github.io Website"
+title: "Creating Your github pages website"
 tech: markdown github
-permalink: /tutorials/githubio-website
+permalink: /tutorials/github-pages-website
 ---
 # Requirements
 * a github account
