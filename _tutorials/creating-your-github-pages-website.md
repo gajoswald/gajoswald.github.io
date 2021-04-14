@@ -1,5 +1,6 @@
 ---
 title: "Creating Your github pages website"
+layout: page
 tech: markdown github
 permalink: /tutorials/github-pages-website
 ---
