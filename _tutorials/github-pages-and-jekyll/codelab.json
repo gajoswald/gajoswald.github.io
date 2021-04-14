@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-01-14T18:40:59Z",
+  "id": "github-pages-and-jekyll",
+  "duration": 0,
+  "title": "",
+  "summary": "Creating a website and blog with github pages and jekyll.",
+  "source": "1zmP7W772S7cl_zg2DvvJE-xRhKWKRP3FUYAzAYCghUM",
+  "theme": "webdev",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "webdev"
+  ],
+  "tags": [
+    "rotation 12",
+    "web"
+  ],
+  "feedback": "https://docs.google.com/forms/d/e/1FAIpQLSfHVTm89R6_NVS2NGc-aNepZXPu2ctOVlu6Et6r_N9uP0lRMA/viewform",
+  "ga": "187333409",
+  "url": "github-pages-and-jekyll"
+}
